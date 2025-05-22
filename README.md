@@ -6,4 +6,4 @@ When it comes to publishing papers, it can be considerably stressful to constant
 ### Misc.
 
 This program will not be expanded upon further. It was originally developed for private laboratory usage but it has now been released publicly for anyone who wants to use, or modify, it to their hearts content. 
-You must write your line listing, and an acompanying chemical formula before it, in a text document for this program to function. The line listing must also be in the ACS J. Org. Chem. format.
+You must write your line listing, and an acompanying chemical formula before it, in a text document for this program to function. The line listing must also be in the ACS J. Org. Chem. format. Thank you.
